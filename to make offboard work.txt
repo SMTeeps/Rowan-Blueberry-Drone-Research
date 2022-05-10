@@ -1,0 +1,5 @@
+param set COM_RCL_EXCEPT 4
+
+do this in the px4 command prompt before using offboard
+
+IDK why
